@@ -1,5 +1,10 @@
 body {
     background-color:lightgreen;
+    display:flex;
+    background-image:url("../images/background.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    
 }
 
 p {
